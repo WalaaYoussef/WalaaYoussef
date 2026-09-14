@@ -1,6 +1,7 @@
-👋Hi I'm Walaa Youssef
+👋 Hi, I'm Walaa Youssef!
 
-👀 I’m interested in tecnology
+💻 I'm passionate about technology and software development.
 
-🌱 I’m currently learning computer science
+🌱 I'm currently learning Computer Science and improving my skills in Git and GitHub.
 
+🚀 I'm always excited to learn new technologies and build new projects.
