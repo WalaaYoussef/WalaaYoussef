@@ -13,10 +13,10 @@ C# • ASP.NET Core • EF Core • SQL Server • REST APIs
 🎨 Color Match
 .NET | API | Business Logic | Database
 
-🎮 Coding Quest
+
 .NET | Authentication | APIs | Gamification
 
-👗 KiseKloset
+
 Python | AI | Computer Vision | Deep Learning
 
 ────────────────────────────
