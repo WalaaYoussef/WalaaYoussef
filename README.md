@@ -1,45 +1,42 @@
-# Hi, I'm Walaa Youssef 👋
+Walaa Youssef Adel
+Junior .NET Backend Developer
 
-### Junior .NET Backend Developer
+C# • ASP.NET Core • EF Core • SQL Server • REST APIs
 
-Computer Science graduate passionate about building backend applications
-using C#, ASP.NET Core, SQL Server, and Entity Framework Core.
+────────────────────────────
 
-### 🛠️ Technical Skills
+🚀 Featured Projects
 
-- C#
-- ASP.NET Core
-- ASP.NET MVC
-- Entity Framework Core
-- SQL Server
-- LINQ
-- REST APIs
-- Git & GitHub
-- OOP
-- Python
-- AI / Machine Learning
+🏫 LMS Management System
+.NET | EF Core | SQL Server
 
-### 🚀 Featured Projects
+🎨 Color Match
+.NET | API | Business Logic | Database
 
-🏫 **LMS System**
-- ASP.NET Core / MVC
-- Entity Framework
-- SQL Server
-- CRUD operations
-- Database relationships
+🎮 Coding Quest
+.NET | Authentication | APIs | Gamification
 
-🎨 **Color Match**
-- .NET
-- REST API
-- Database
-- Business Logic
+👗 KiseKloset
+Python | AI | Computer Vision | Deep Learning
 
-👗 ** AI Virtual Try-On**
-- Python
-- Computer Vision
-- Deep Learning
-- Fashion Recommendation
-- Image Processing
+────────────────────────────
+
+💻 Skills
+
+Backend
+C# • ASP.NET Core • MVC • Web API
+
+Database
+SQL Server • EF Core • LINQ
+
+Programming
+C# • Python • Java • C/C++
+
+AI
+Machine Learning • Computer Vision
+
+Tools
+Git • GitHub • Visual Studio • VS Code
 
 ### 📫 Connect with me
 
